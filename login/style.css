@@ -1,0 +1,25 @@
+
+
+.imagem-esquerda {
+   width: 50vw;
+    height:100vh;
+    background-color: black;
+
+}
+
+.page-container {
+    display: flex;
+
+
+}
+
+.login-container {
+    background-color: red;
+    flex-direction: column;
+    width: 50vw;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
